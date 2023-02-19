@@ -5,11 +5,19 @@ In this study, we propose a new approach of hierarchical error (He) transform in
 ![](https://github.com/abbassi007/He_transform_for_JPEG-AI/blob/master/Framework.png)
 ## Experimental Setup
 ### Evaluation Procedure & Matrices
-![](https://github.com/abbassi007/He_transform_for_JPEG-AI/blob/master/Evaluation%20procedure.jpg)
+<img src = "https://github.com/abbassi007/He_transform_for_JPEG-AI/blob/master/Evaluation%20procedure.jpg">
+
 ### Results
 #### MSE optimized model
-![](https://github.com/abbassi007/He_transform_for_JPEG-AI/blob/master/Results/MSE%20optimized%20model%20results.png)
-![](https://github.com/abbassi007/He_transform_for_JPEG-AI/blob/master/Results/MSE%20optimized%20model%20results_.png)
+
+<p align="center">
+<img src = " https://github.com/abbassi007/He_transform_for_JPEG-AI/blob/master/Results/MSE%20optimized%20model%20results.png" >
+<img src = " https://github.com/abbassi007/He_transform_for_JPEG-AI/blob/master/Results/MSE%20optimized%20model%20results_.png" >
+</p>
+
 #### MS-SSIM optimized model
-![](https://github.com/abbassi007/He_transform_for_JPEG-AI/blob/master/Results/MS-SSIM%20optimized%20model%20results.png)
-![](https://github.com/abbassi007/He_transform_for_JPEG-AI/blob/master/Results/Visualization.png)
+
+<p align ="center">
+<img src = "https://github.com/abbassi007/He_transform_for_JPEG-AI/blob/master/Results/MS-SSIM%20optimized%20model%20results.png">
+<img src = "https://github.com/abbassi007/He_transform_for_JPEG-AI/blob/master/Results/Visualization.png">
+</p>
