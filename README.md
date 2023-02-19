@@ -10,9 +10,9 @@ In this study, we propose a new approach of hierarchical error (He) transform in
 ### Results
 #### MSE optimized model
 
-<p align="center">
-<img src = " https://github.com/abbassi007/He_transform_for_JPEG-AI/blob/master/Results/MSE%20optimized%20model%20results.png" >
-<img src = " https://github.com/abbassi007/He_transform_for_JPEG-AI/blob/master/Results/MSE%20optimized%20model%20results_.png" >
+<p align = "center">
+<img src = "https://github.com/abbassi007/He_transform_for_JPEG-AI/blob/master/Results/MSE%20optimized%20model%20results_.png">
+<img src = "https://github.com/abbassi007/He_transform_for_JPEG-AI/blob/master/Results/MSE%20optimized%20model%20results.png">
 </p>
 
 #### MS-SSIM optimized model
