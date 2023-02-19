@@ -7,7 +7,7 @@ In this study, we propose a new approach of hierarchical error (He) transform in
 ### Evaluation Procedure & Matrices
 <img src = "https://github.com/abbassi007/He_transform_for_JPEG-AI/blob/master/Evaluation%20procedure.jpg">
 
-### Results
+## Results
 #### MSE optimized model
 
 <p align = "center">
